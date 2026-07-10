@@ -1,0 +1,21 @@
+# Build artifacts and executables
+*.o
+*.obj
+*.out
+*.exe
+*.elf
+
+# Simulation / generated files
+*.vcd
+dump.txt
+output.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
