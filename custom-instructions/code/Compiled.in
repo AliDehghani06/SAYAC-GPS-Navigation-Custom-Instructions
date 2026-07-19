@@ -1,0 +1,8 @@
+MSI 10 R1       
+MSI 20 R2        
+MSI 40 R3       
+MSI 60 R4       
+SUR R3 R1 R5    
+SUR R4 R2 R6 
+DIST R5 R6  R10
+ATAN R5 R6 R11
